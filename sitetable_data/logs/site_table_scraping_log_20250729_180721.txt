@@ -1,0 +1,11 @@
+Site Table Scraping Log - Started at 2025-07-29 18:07:21
+Starting from Protein ID: 583
+================================================================================
+
+[18:07:45] Protein ID 583 (CDK2): Success
+
+================================================================================
+
+Site Table Scraping completed at 2025-07-29 18:07:45
+Total proteins processed: 1
+Combined data saved to: sitetable_data/CDK2_site_data.csv

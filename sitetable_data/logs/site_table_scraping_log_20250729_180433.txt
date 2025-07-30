@@ -1,0 +1,7 @@
+Site Table Scraping Log - Started at 2025-07-29 18:04:33
+Starting from Protein ID: 583
+================================================================================
+
+[18:04:53] Protein ID 583 (Protein_583): No data
+
+[WARNING] No results to combine into CSV - all_results is empty

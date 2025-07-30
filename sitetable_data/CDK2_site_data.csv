@@ -1,0 +1,234 @@
+Protein,Site,Sequence,Upstream,Downstream,LTP,HTP,Organism
+CDK2,-,gap,False,False,0.0,1.0,
+CDK2,K6-ac,__MENFQkVEKIGEG,False,False,0.0,3.0,
+CDK2,K6-ub,__MENFQkVEKIGEG,False,False,0.0,4.0,
+CDK2,K6-sm,__MENFQkVEKIGEG,False,False,0.0,1.0,
+CDK2,T14-p,VEKIGEGtyGVVykA,False,False,13.0,1596.0,
+CDK2,Y15-p,EKIGEGtyGVVykAR,False,False,34.0,3952.0,
+CDK2,"Kinase, in vitro:
+                                                    
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        Wee1 (human)
+                                                    
+                                                
+                                                
+                                                
+
+                                            
+                                        
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                    
+                                                    
+                                                        Phosphatases, in vitro:
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        CDC25A (human)
+                                                    
+                                                
+                                                
+                                                
+
+                                            
+                                        
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Putative upstream phosphatases:
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        CDC25A (human)
+                                                    
+                                                
+                                                
+                                                
+
+                                            
+                                        
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                        Regulatory protein:
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        ATR (human)
+                                                    
+                                                        CCNE1 (human)
+                                                    
+                                                        CDC25A (human)
+                                                    
+                                                        CSFR (human)
+                                                    
+                                                        EGFR (human)
+                                                    
+                                                        LYN (human)
+                                                    
+                                                        small T antigen (polyomavirus)
+                                                    
+                                                
+                                                
+                                                
+                                                    view more >
+                                                
+
+                                            
+                                        
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                        Treatment
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        adavosertib
+                                                    
+                                                        adriamycin
+                                                    
+                                                        antibody
+                                                    
+                                                        aphidicolin
+                                                    
+                                                        arsenite
+                                                    
+                                                        AZD1775
+                                                    
+                                                        cisplatin
+                                                    
+                                                        doxycycline
+                                                    
+                                                        EGF
+                                                    
+                                                        ephrin_B1
+                                                    
+                                                        ephrin_B2
+                                                    
+                                                        FGF7
+                                                    
+                                                        fludarabine
+                                                    
+                                                        HU-210
+                                                    
+                                                        hypoxia
+                                                    
+                                                        imatinib
+                                                    
+                                                        ionizing_radiation
+                                                    
+                                                        metastatic potential
+                                                    
+                                                        MG132
+                                                    
+                                                        MK-8776
+                                                    
+                                                        nocodazole
+                                                    
+                                                        osimertinib
+                                                    
+                                                        PD166285
+                                                    
+                                                        PD173955
+                                                    
+                                                        PD179483
+                                                    
+                                                        quinalizarin
+                                                    
+                                                        retinoic_acid
+                                                    
+                                                        rociletinib
+                                                    
+                                                        seliciclib
+                                                    
+                                                        serum
+                                                    
+                                                        staurosporine
+                                                    
+                                                        U0126
+                                                    
+                                                        UCN-01
+                                                    
+                                                        UV
+                                                    
+                                                
+                                                
+                                                
+                                                    view more >","Kinase, in vitro:
+                                                    
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                                
+                                                    
+                                                        Wee1 (human)",False,False,,,
+CDK2,Y19-p,EGtyGVVykARNkLT,False,False,1.0,1781.0,
+CDK2,K20-ub,GtyGVVykARNkLTG,False,False,0.0,3.0,
+CDK2,K24-ub,VVykARNkLTGEVVA,False,False,0.0,6.0,
+CDK2,K33-ac,TGEVVALkKIRLDtE,False,False,1.0,0.0,
+CDK2,K33-ub,TGEVVALkKIRLDtE,False,False,0.0,3.0,
+CDK2,K33-sm,TGEVVALkKIRLDtE,False,False,1.0,0.0,
+CDK2,T39-p,LkKIRLDtETEGVPs,False,False,1.0,1.0,
+CDK2,S46-p,tETEGVPsTAIREIS,False,False,1.0,2.0,
+CDK2,K56-ub,IREISLLkELNHPNI,False,False,0.0,3.0,
+CDK2,K65-ub,LNHPNIVkLLDVIHT,False,False,0.0,1.0,
+CDK2,K129-ub,RVLHRDLkPQNLLIN,False,False,1.0,6.0,
+CDK2,T137-p,PQNLLINtEGAIkLA,False,False,0.0,1.0,
+CDK2,K142-ub,INtEGAIkLADFGLA,False,False,1.0,3.0,
+CDK2,T158-p,AFGVPVRtytHEVVt,False,False,0.0,25.0,
+CDK2,Y159-p,FGVPVRtytHEVVtL,False,False,0.0,12.0,
+CDK2,T160-p,GVPVRtytHEVVtLW,False,False,43.0,269.0,
+CDK2,T165-p,tytHEVVtLWyRAPE,False,False,1.0,3.0,
+CDK2,Y168-p,HEVVtLWyRAPEILL,False,False,1.0,0.0,
+CDK2,K237-ub,VTSMPDYkPSFPkWA,False,False,0.0,4.0,
+CDK2,K250-ub,WARQDFSkVVPPLDE,False,False,0.0,7.0,
+CDK2,S261,PLDEDGRSLLSQMLH,False,False,0.0,1.0,
+CDK2,Y269,LLSQMLHYDPNkRIS,False,False,0.0,1.0,
+CDK2,K273-ub,MLHYDPNkRISAkAA,False,False,0.0,4.0,
+CDK2,K278-ub,PNkRISAkAALAHPF,False,False,0.0,5.0,
+CDK2,K291-ub,PFFQDVTkPVPHLrL,False,False,0.0,5.0,
+CDK2,R297-m1,TkPVPHLrL______,False,False,0.0,1.0,
+CDK2,K242-ub,DYkPSFPkWARQDFS,False,False,0.0,1.0,
